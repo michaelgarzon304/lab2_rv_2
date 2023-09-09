@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trolley Bar
+* source:	https://sketchfab.com/3d-models/trolley-bar-ab8f2a2449a3431bbf0ac57dcb86b933
+* author:	mattruszala (https://sketchfab.com/mattruszala)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trolley Bar" (https://sketchfab.com/3d-models/trolley-bar-ab8f2a2449a3431bbf0ac57dcb86b933) by mattruszala (https://sketchfab.com/mattruszala) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

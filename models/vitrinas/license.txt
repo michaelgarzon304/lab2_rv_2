@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wine cabinet x3
+* source:	https://sketchfab.com/3d-models/wine-cabinet-x3-59cac981d741429f92642343c1594806
+* author:	3DWaffle (https://sketchfab.com/recursivedude)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wine cabinet x3" (https://sketchfab.com/3d-models/wine-cabinet-x3-59cac981d741429f92642343c1594806) by 3DWaffle (https://sketchfab.com/recursivedude) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html >
+<head>
+    
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+  
+    <title>Modelo glTF en A-Frame</title>
+
+</head>
+<body>
+    <a-scene background="color: #B2FFFF">
+        <!-- Carga el modelo glTF en a-assets -->
+      
+
+        <!-- Agrega el modelo glTF a la escena -->
+       
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)" scale="50 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+        
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)"position="0 200 0" scale="50 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)"position="0 200 -25"  rotation="90 0 0" scale="50 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)"position="0 200 370"  rotation="90 0 0" scale="50 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)"position="-25 200 350"  rotation="90 90 0" scale="80 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+        <a-entity gltf-model="src: url(models/piso/scene.gltf)"position="370 200 350"  rotation="90 90 0" scale="80 1 50" material="src: url(models/madera.jpg)"a></a-entity>
+
+
+        <a-entity gltf-model="src: url(models/meson/scene.gltf)" position="100 0 100" scale="1 1 1"></a-entity>
+
+        <a-entity gltf-model="src: url(models/bar/scene.gltf)"  position="100 39 -220" rotation="0 90 0" scale="1 1 1"  ></a-entity>
+
+        
+        <a-entity gltf-model="src: url(models/mesa/scene.gltf)"  position="100 25 220"  scale="1 0.8 1"  ></a-entity>
+        <a-entity gltf-model="src: url(models/mesa/scene.gltf)"  position="300 25 220"  scale="1 0.8 1"  ></a-entity>
+        <a-entity gltf-model="src: url(models/mesa/scene.gltf)"  position="100 25 350"  scale="1 0.8 1"  ></a-entity>
+        <a-entity gltf-model="src: url(models/mesa/scene.gltf)"  position="300 25 350"  scale="1 0.8 1"  ></a-entity>
+
+
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="280 25 350"  scale="25 25 25"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="320 25 350" rotation="0 180 0"  scale="25 25 25"  ></a-entity>
+
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="80 25 350"  scale="25 25 25"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="120 25 350" rotation="0 180 0"  scale="25 25 25"  ></a-entity>
+
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="280 25 220"  scale="25 25 25"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="320 25 220" rotation="0 180 0"  scale="25 25 25"  ></a-entity>
+
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="80 25 220"  scale="25 25 25"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas/scene.gltf)"  position="120 25 220" rotation="0 180 0"  scale="25 25 25"  ></a-entity>
+
+
+        <a-entity gltf-model="src: url(models/sillas2/scene.gltf)"  position="100 0 125" rotation="0 -90 0"  scale="50 50 50"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas2/scene.gltf)"  position="65 0 125" rotation="0 -90 0"  scale="50 50 50"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas2/scene.gltf)"  position="135 0 125" rotation="0 -90 0"  scale="50 50 50"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas2/scene.gltf)"  position="195 0 110" rotation="0 -45 0"  scale="50 50 50"  ></a-entity>
+        <a-entity gltf-model="src: url(models/sillas2/scene.gltf)"  position="5 0 110" rotation="0 -135 0"  scale="50 50 50"  ></a-entity>
+
+
+        <a-entity gltf-model="src: url(models/botellas/scene.gltf)"  position="125 45 235" rotation="0 -45 0"  scale="20 20 20"  ></a-entity>
+        <a-entity gltf-model="src: url(models/botellas/scene.gltf)"  position="125 45 365" rotation="0 -45 0"  scale="20 20 20"  ></a-entity>
+        <a-entity gltf-model="src: url(models/botellas/scene.gltf)"  position="325 45 235" rotation="0 -45 0"  scale="20 20 20"  ></a-entity>
+        <a-entity gltf-model="src: url(models/botellas/scene.gltf)"  position="325 45 365" rotation="0 -45 0"  scale="20 20 20"  ></a-entity>
+
+
+        <a-entity gltf-model="src: url(models/vitrinas/scene.gltf)"  position="0 10 0"   scale="120 120 120"  ></a-entity>
+
+        <a-entity gltf-model="src: url(models/rocola/scene.gltf)"  position="350 0 100" rotation="0 -90 0"   scale="50 50 50"  ></a-entity>
+
+        
+        <a-entity id="rig" position="0 4 0" rotation="0 0 0" >
+            <a-entity camera look-controls wasd-controls="acceleration:500" position="200 60 200"></a-entity>
+
+          </a-entity>
+
+    </a-scene>
+</body>
+</html>

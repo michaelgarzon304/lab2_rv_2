@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rockola positiva
+* source:	https://sketchfab.com/3d-models/rockola-positiva-1114cbce83ff460bad46b8910548d9db
+* author:	Rafael Fernández Calvo (https://sketchfab.com/rafarelo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rockola positiva" (https://sketchfab.com/3d-models/rockola-positiva-1114cbce83ff460bad46b8910548d9db) by Rafael Fernández Calvo (https://sketchfab.com/rafarelo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
